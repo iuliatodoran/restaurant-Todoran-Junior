@@ -1,0 +1,272 @@
+.titlu {
+    font-family: "Lora" serif;
+    font-weight: 700;
+    font-size: 70px;
+    letter-spacing: -0.02em;
+    text-align: center;
+    color: #fff;
+    margin-top: 200px;
+}
+
+.subtext {
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    margin-top: -25px;
+    line-height: 36px; 
+    line-height: 150%;
+    text-align: center;
+    color: rgba(219, 219, 219, 0.694);
+}
+
+.button{
+    margin-left: 85%;
+}
+
+.titlu1{
+    font-family: "Lora" serif;
+    font-weight: 500;
+    font-size: 50px;
+
+    line-height: 75px; 
+    line-height: 150%;
+    text-align: center;
+    color: #2b2b2b;
+}
+
+.titlu2{
+    font-family: "Lora" serif;
+    font-weight: 500;
+    font-size: 50px;
+
+    line-height: 75px; 
+    line-height: 150%;
+    text-align: center;
+    color: #fff;
+}
+
+.despre{
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+
+    line-height: 37px; 
+    line-height: 150%;
+    text-align: center;
+    color: #4b4b4b;
+}
+
+.meniu{
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+
+    line-height: 37px; 
+    line-height: 150%;
+    color: #fff;
+    text-align: left;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+.meniu1{
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+
+    line-height: 37px; 
+    line-height: 150%;
+    color: #4b4b4b;
+    text-align: left;
+    margin-left: 100px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+.meniu2{
+    background-image: url('paginap4.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 526px;
+    font-family: "Monda";
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 37px; 
+    line-height: 150%;
+    color: #ffffff;
+    text-align: left;
+    padding-top: 15px;
+ 
+}
+
+.extra{
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: -50px;
+}
+
+.altele{
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+.sect1{
+    background-image: url('paginap.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 526px;
+}
+
+.sect2{
+    background-image: url('paginap1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 526px;
+}
+
+.sect3{
+    background-image: url('paginap3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 526px;
+    padding-top: 50px;
+}
+
+.image-container {
+    justify-content: center;
+    gap: 20px;
+    display: flex;
+}
+
+.image-container img{
+    width: 353px;
+    height: 363px;
+    margin-bottom: 20px;
+}
+
+.sect4{
+    background-image: url('paginap4.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 526px;
+
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    
+    line-height: 22px; 
+    line-height: 110%;
+    color: #fff;
+    padding-top: 150px;
+}
+
+.telefon{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    font-style: normal;
+    margin-left: 10px;
+    color: #fff;
+}
+
+.telefon1{
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 22px; 
+    line-height: 110%;
+    color: #4b4b4b;
+    text-align: left;
+}
+
+.rezervare{
+    margin-left: 40%;
+}
+
+.email{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    font-style: normal;
+    margin-left: 10px;
+    color: #fff;
+}
+
+.email1{
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 22px; 
+    line-height: 110%;
+    color: #4b4b4b;
+    text-align: left;
+}
+
+.orar{
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 22px; 
+    line-height: 110%;
+    color: #fff;
+    margin-left: 55%;
+    margin-top: -150px;
+}
+
+.orar1{
+    margin-top: 50px;
+}
+
+.contact{
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 22px; 
+    line-height: 110%;
+    color: #4b4b4b;
+    text-align: left;
+    margin-left: 1150px;
+    margin-top: 300px;
+}
+
+.adresa{
+    margin-top: -20px;
+}
+
+.location{
+    margin-left: 500px;
+    margin-top: -400px;
+}
+
+.index-button{
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 30px; 
+    line-height: 100%;
+    color: #424242;
+}
+
+.contact-button{
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+
+    line-height: 30px; 
+    line-height: 100%;
+    color: #424242;
+}
+
+.meniu-button{
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 30px; 
+    line-height: 100%;
+    color: #424242;
+}
